@@ -1,1 +1,1 @@
-Guardian bot list is expiriencing issues due to discords outage.
+The Guardian Bot List is currently experiencing DNS issues, temporarily rendering the API unavailable. We appreciate your patience during this inconvenience.
