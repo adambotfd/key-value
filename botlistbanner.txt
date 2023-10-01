@@ -1,1 +1,1 @@
-The Guardian Bot List is currently experiencing DNS issues, temporarily rendering the API unavailable. We appreciate your patience during this inconvenience.
+The Guardian Bot List is currently experiencing DNS issues, temporarily rendering the API unavailable. We will be back soon 👋
