@@ -1,1 +1,1 @@
-v2 is here! report any issues in our discord server
+Our API is facing issues. Our dev team are working on a fix ASAP
